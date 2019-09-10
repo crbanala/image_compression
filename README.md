@@ -7,7 +7,9 @@ The Network Flow is as follows :
 <img src="NetworkFlow.PNG" >
 
 
-The models are trained using the GAN 
+The models are trained in GAN fashion :
+
+<img src="TrainingFlow.PNG" >
 
 Image Compression using GAN
 
