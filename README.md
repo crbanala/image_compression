@@ -3,7 +3,9 @@
 
 Designed Encoder and Decoder Models that encodes large size images to a lower sized tensor and reconstructs the original image from it.
 
-The Architecture of it is as follwing :
+The Network Flow is as follows :
+<img src="Network Flow.png" >
+
 
 The models are trained using the GAN 
 
