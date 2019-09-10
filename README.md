@@ -1,4 +1,7 @@
-# image_compression
+# Image Compression using GAN
+
+The Architecture is as follwing :
+
 Image Compression using GAN
 
 
