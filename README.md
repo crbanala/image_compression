@@ -3,6 +3,14 @@
 
 Designed Encoder and Decoder Models that encodes large size images to a lower sized tensor and reconstructs the original image from it.
 
+
+
+
+Source Code Available at :
+https://www.kaggle.com/crbanala/image-compression-using-gan-2
+
+
+
 The Network Flow is as follows :
 <img src="NetworkFlow.PNG" >
 
