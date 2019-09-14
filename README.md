@@ -23,3 +23,4 @@ Image Compression using GAN
 
 <b> RESULTS : </b>
 <img src="results.png" >
+<img src="results1.png" >
