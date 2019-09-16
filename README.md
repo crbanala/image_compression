@@ -29,7 +29,7 @@ The Network Flow is as follows :
 <img src="NetworkFlow.PNG" >
 
 
-The models are trained in GAN fashion :
+The models are trained based on GAN's :
 
 <img src="TrainingFlow.PNG" >
 
