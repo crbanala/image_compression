@@ -24,6 +24,10 @@ Source Code Available at :
 https://www.kaggle.com/crbanala/image-compression-using-gan-2
 
 
+Results at : 
+https://www.kaggle.com/a77887/fork-of-image-compression-using-gan-2-results?scriptVersionId=21090362
+
+
 
 The Network Flow is as follows :
 <img src="NetworkFlow.PNG" >
