@@ -14,8 +14,7 @@ Coming to network architectures, for Compressor and Decompressor Networks, we ha
 
 
 
-Using the proposed architectures and loss function we were able to achieve compression rates of 43% 68%,84% and also reconstruct images that are similar to the original image.
-
+Using the proposed architectures and loss function we were able to achieve compression rates of 43% 68%,84% and also reconstruct images that are similar to the original image th with structural similarity index > 0.95.
 
 
 
